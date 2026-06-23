@@ -1,0 +1,11 @@
+store_id,store_name,city,size_m2,num_employees
+1,Berlin Mitte,Berlin,1200,42
+2,Hamburg Altona,Hamburg,950,33
+3,Munich Schwabing,Munich,1450,51
+4,Frankfurt Sachsenhausen,Frankfurt,800,28
+5,Cologne Ehrenfeld,Cologne,1100,38
+6,Stuttgart Mitte,Stuttgart,700,24
+7,Dresden Neustadt,Dresden,600,21
+8,Leipzig Zentrum,Leipzig,750,26
+9,Düsseldorf Flingern,Düsseldorf,900,31
+10,Vienna Mariahilf,Vienna,1300,45
