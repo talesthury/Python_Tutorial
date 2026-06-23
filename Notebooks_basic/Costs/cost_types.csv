@@ -1,0 +1,11 @@
+cost_id,cost_name,normalization_method,description
+1,Cleaning,per_m2,Daily and deep cleaning services
+2,Lunch Catering,per_employee,Daily lunch provided to staff
+3,Monthly Celebrations,per_employee,"Birthday, holiday and team celebration costs"
+4,Office Supplies,per_employee,"Pens, paper, printer ink and general supplies"
+5,Security,per_m2,Security personnel and systems
+6,Maintenance,per_m2,Building repairs and upkeep
+7,Electricity,per_m2,Monthly electricity consumption
+8,Internet & Phones,per_employee,"Phone lines, mobile contracts and internet"
+9,First Aid & Safety,per_employee,"First aid kits, fire extinguisher checks, safety training"
+10,Waste Disposal,per_m2,Trash collection and recycling services
